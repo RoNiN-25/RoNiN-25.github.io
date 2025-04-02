@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Aravind S"
   pronouns         : "He/Him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Bangalore"
   employer         : #"Red Brick University"
   uri              : # URL

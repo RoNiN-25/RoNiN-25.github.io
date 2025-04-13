@@ -3,7 +3,6 @@ layout: page
 title: Reinforcement Learning based Persistent Surveillance by Robots
 description: A rolling-horizon RL-based solution to multi-agent persistent surveillance with battery and communication constraints.
 img: assets/img/25N-3A.gif
-permalink: assets/pdf/RL_based_ma_surv/MTech_Project_Final_Report.pdf
 importance: 1
 category: thesis
 related_publications: true
@@ -38,8 +37,8 @@ The agents are trained to **minimize node idleness** and **maximize coverage eff
 - Demonstrated robust policies over graphs with up to **100 nodes** and **multi-agent setups**.
 
 ### Resources
-- 📄 [Thesis Report (PDF)](assets/pdf/RL_based_ma_surv/MTech_Project_Final_Report.pdf)
-- 🖼️ [Poster Presentation (PDF)](assets/pdf/RL_based_ma_surv/poster_final.pdf)
+- 📄 [Thesis Report (PDF)](assets/pdf/MTech_Project_Final_Report.pdf)
+- 🖼️ [Poster Presentation (PDF)](assets/pdf/poster_final.pdf)
 
 ### Supervisor
 Dr. Pavankumar Tallapragada, Indian Institute of Science

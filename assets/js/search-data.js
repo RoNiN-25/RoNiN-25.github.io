@@ -91,6 +91,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-reinforcement-learning-based-persistent-surveillance-by-robots",
+          title: 'Reinforcement Learning based Persistent Surveillance by Robots',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RL_based_multi_agent_surveillance.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

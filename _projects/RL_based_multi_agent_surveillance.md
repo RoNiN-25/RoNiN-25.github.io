@@ -37,8 +37,8 @@ The agents are trained to **minimize node idleness** and **maximize coverage eff
 - Demonstrated robust policies over graphs with up to **100 nodes** and **multi-agent setups**.
 
 ### Resources
-- 📄 [Thesis Report (PDF)](assets/pdf/MTech_Project_Final_Report.pdf)
-- 🖼️ [Poster Presentation (PDF)](assets/pdf/poster_final.pdf)
+- 📄 [Thesis Report (PDF)](https://ronin-25.github.io/assets/pdf/RL_based_ma_surv/MTech_Project_Final_Report.pdf)
+- 🖼️ [Poster Presentation (PDF)](https://ronin-25.github.io/assets/pdf/RL_based_ma_surv/poster_final.pdf)
 
 ### Supervisor
 Dr. Pavankumar Tallapragada, Indian Institute of Science

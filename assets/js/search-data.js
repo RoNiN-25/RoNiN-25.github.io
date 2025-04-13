@@ -95,7 +95,7 @@ ninja.data = [{
           title: 'Reinforcement Learning based Persistent Surveillance by Robots',
           description: "A rolling-horizon RL-based solution to multi-agent persistent surveillance with battery and communication constraints.",
           section: "Projects",handler: () => {
-              window.location.href = "/assets/pdf/RL_based_ma_surv/MTech_Project_Final_Report.pdf";
+              window.location.href = "/projects/RL_based_multi_agent_surveillance.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',

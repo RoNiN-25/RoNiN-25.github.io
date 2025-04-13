@@ -303,10 +303,7 @@
       "highlights": [
         "Formal controller design using STL",
         "Tested in Gazebo and real-world hardware"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "Deep RL Based Control for a Quadrotor",
@@ -314,10 +311,7 @@
       "highlights": [
         "Deep RL for UAV control",
         "Simulation in PyBullet"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "Robust Control on a Drone",
@@ -325,10 +319,7 @@
       "highlights": [
         "UDE-based robust control",
         "Validated with real quadrotor"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "Self-Balancing Robot Using LQR-Based Feedback Control",
@@ -336,10 +327,7 @@
       "highlights": [
         "LQR controller implementation",
         "Simulated and real-world testing"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "Efficient Path Planning of Unmanned Surface Vehicle (USV)",
@@ -347,10 +335,7 @@
       "highlights": [
         "Implemented AMRA* for USVs",
         "Compared performance with other planners"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": "https://arxiv.org/abs/2110.05328"
+      ]
     },
     {
       "name": "Map Auto Generation | Nokia Bell Labs",
@@ -358,10 +343,7 @@
       "highlights": [
         "Autonomous mapping with TurtleBot",
         "Frontier Exploration and SLAM"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "AQPAC | Air Quality Predictor and Checker",
@@ -369,10 +351,7 @@
       "highlights": [
         "Wireless sensor network for AQI",
         "Integrated web and Android interface"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "Incentivized TechBin | Smart Garbage Collector",
@@ -380,10 +359,7 @@
       "highlights": [
         "Sensor-enabled smart garbage bin",
         "Reward system via mobile app"
-      ],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      ]
     },
     {
       "name": "Study of Average Reward TRPO for Infinite Horizon Control Problems",
@@ -392,8 +368,6 @@
         "Adapted TRPO for average reward objective",
         "Verified through infinite horizon simulations"
       ],
-      "startDate": "",
-      "endDate": "",
       "url": "https://arxiv.org/abs/2106.07329"
     }
   ]  

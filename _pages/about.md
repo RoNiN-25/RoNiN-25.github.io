@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_pic_aravind.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <!-- <p>555 your office number</p> -->
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a robotics researcher with a deep passion for building intelligent, autonomous systems capable of navigating complex, dynamic environments. I completed my **Master’s in Robotics and Autonomous Systems** from the Indian Institute of Science (IISc), Bangalore, and earned my **Bachelor’s degree in Electronics and Communication Engineering** from PES University. During my academic journey, I had the opportunity to intern at **Nvidia** and **Nokia**, where I gained valuable experience working on cutting-edge technology and embedded systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of **learning-based control**, **multi-agent systems**, and **formal methods** for robotics. I’m particularly excited by the challenge of developing robust, scalable control frameworks for autonomous systems that combine the rigor of formal verification with the adaptability of learning techniques. From **deep reinforcement learning** for quadrotor control and **multi-agent surveillance** to robust control design and formal verification using **Signal Temporal Logic (STL)**, my work focuses on building systems that are both safe and efficient in real-world applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At MathWorks, I have contributed to projects such as **intelligent bin picking using ROS2** with a **UR5e robotic arm** and enabling **MATLAB and Simulink interfaces for Crazyflie drones**. These experiences have further fueled my ambition to push the boundaries of robotics research. As I apply for a PhD, I am eager to continue advancing the field by combining theoretical control methods with practical applications, and ultimately contribute to shaping the future of autonomous systems.

@@ -3,6 +3,7 @@ layout: page
 title: Reinforcement Learning based Persistent Surveillance by Robots
 description: A rolling-horizon RL-based solution to multi-agent persistent surveillance with battery and communication constraints.
 img: assets/img/25N-3A.gif
+permalink: assets/pdf/RL_based_ma_surv/
 importance: 1
 category: thesis
 related_publications: true
@@ -16,10 +17,10 @@ The agents are trained to **minimize node idleness** and **maximize coverage eff
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RL_based_ma_surv/graph_topology.jpg" title="Example Graph topology used in simulations" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RL_based_ma_surv/graph_topology.png" title="Example Graph topology used in simulations" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RL_based_ma_surv/ma_q_network.jpg" title="Multi agent Q-Network Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RL_based_ma_surv/ma_q_network.png" title="Multi agent Q-Network Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/RL_based_ma_surv/comp_time.png" title="RL vs. IP Computation Time" class="img-fluid rounded z-depth-1" %}

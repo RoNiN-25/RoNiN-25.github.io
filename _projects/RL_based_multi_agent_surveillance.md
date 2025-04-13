@@ -3,7 +3,7 @@ layout: page
 title: Reinforcement Learning based Persistent Surveillance by Robots
 description: A rolling-horizon RL-based solution to multi-agent persistent surveillance with battery and communication constraints.
 img: assets/img/25N-3A.gif
-permalink: assets/pdf/RL_based_ma_surv/
+permalink: assets/pdf/RL_based_ma_surv/MTech_Project_Final_Report.pdf
 importance: 1
 category: thesis
 related_publications: true

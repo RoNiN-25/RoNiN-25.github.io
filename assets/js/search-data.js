@@ -91,6 +91,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-deep-rl-based-control-of-a-quadrotor",
+          title: 'Deep RL based Control of a Quadrotor',
+          description: "A deep respecting learning based position and attitude controller for a Quadrotor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Deep_RL_based_quadrotor_control.html";
             },},{id: "projects-reinforcement-learning-based-persistent-surveillance-by-robots",
           title: 'Reinforcement Learning based Persistent Surveillance by Robots',
           description: "A rolling-horizon RL-based solution to multi-agent persistent surveillance with battery and communication constraints.",

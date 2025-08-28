@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep RL based Control of a Quadrotor
-description: A deep respecting learning based position and attitude controller for a Quadrotor
+description: A Deep Reinforcement Learning based position and attitude controller for Quadrotors
 img: assets/img/Deep_RL_based_control_for_quadrotor/deep_rl_drone_control.png
 importance: 1
 category: robotics

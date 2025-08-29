@@ -2,7 +2,7 @@
 layout: page
 title: Robust Drone Control using Uncertainty and Disturbance Estimation (UDE)
 description: Implementation of a UDE based robust control on a quadrotor
-img: assets/img/Deep_RL_based_control_for_quadrotor/deep_rl_drone_control.png
+img: assets/img/Robust_UDE_drone_control/plutox_img.png
 importance: 1
 category: thesis
 related_publications: false
